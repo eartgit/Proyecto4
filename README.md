@@ -27,6 +27,30 @@ https://github.com/edgardo-arteaga
 
 ![bb1](/fotos/MeuBB.jpg)
 
+...python
+print ("hola")
+
+##Tareas
+- [ ] Tarea1
+- [*] Tarea2
+- [ ] Tarea3
+
+
+## Tabla
+Lenguaje | Aula
+html | uno
+css | dos
+javascript | tres
+
+GitHub emojis
+
+:rocket:
+
+## Texto citado
+Fulano dijo:
+> solo se q nada se.
+
+
 
 
 
